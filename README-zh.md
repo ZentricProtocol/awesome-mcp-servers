@@ -739,3 +739,8 @@ https://modelcontextprotocol.io/llms-full.txt
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+## Security
+
+- [Zentric Protocol](https://github.com/ZentricProtocol/zentricprotocol) - Prompt injection detection and PII redaction MCP server for LLM agents. 23ms latency, 99.62% precision, GDPR compliant.
