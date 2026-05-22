@@ -48,7 +48,3 @@ Contributions are welcome and encouraged!  Whether you're fixing a typo, adding 
 
 Thank you for contributing!
 
-
-## Security
-
-- [Zentric Protocol](https://github.com/ZentricProtocol/zentricprotocol) - Prompt injection detection and PII redaction MCP server for LLM agents. 23ms latency, 99.62% precision, GDPR compliant.
